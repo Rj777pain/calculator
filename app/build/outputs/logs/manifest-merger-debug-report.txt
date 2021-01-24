@@ -68,7 +68,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\re
 activity#com.example.calculator.MainActivity
 ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:19-69
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN

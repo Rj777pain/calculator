@@ -30,7 +30,7 @@
 20-->C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:11:9-40
 21        <activity android:name="com.example.calculator.MainActivity" >
 21-->C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:19-47
+21-->C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:19-69
 22            <intent-filter>
 22-->C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:13:13-17:29
 23                <action android:name="android.intent.action.MAIN" />

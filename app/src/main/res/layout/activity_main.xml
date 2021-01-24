@@ -34,7 +34,7 @@
         android:padding="10dp"
         android:paddingLeft="10dp"
         android:singleLine="true"
-        android:text="0"
+        android:text=""
         android:textColor="@color/colorPrimary"
         android:textSize="30sp"></TextView>
 

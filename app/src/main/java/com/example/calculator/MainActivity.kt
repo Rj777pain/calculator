@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
 
     fun clear() {
         tvip.text = ""
-        tvop.text = "0"
+        tvop.text = ""
     }
     fun calculate() {
         try {
