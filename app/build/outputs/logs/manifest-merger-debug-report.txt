@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\rejat\.gradle\caches\transforms-3\981971160baa9db7c829bdf5b7477f6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\rejat\.gradle\caches\transforms-3\9dcb0106cd710123df30759d2a869a90\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\0ec2f78ba281205071bc06d642510a1a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\210edd707f683d989cc7a828932c0067\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\af382b0f23c9e1acff5c944bc3a970be\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\rejat\.gradle\caches\transforms-3\2761a20f41502a407c14fc4490b74a95\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\54283a7eff7ab5a64e596e8a4a50b442\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\581ead41f6125778715d61e885a18109\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\65f25f81844aa55266fc62f20e1af65d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\b7fb7c9d34890772567db149ba51f1ac\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\81766e2c066307282d784d92a8493423\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\a5a74c6457b1b59d9ff496d550b9b5e6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\bb3c296e9e9595185dd4970ce69a1568\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\cb122e5962e306991d1a9340df9926f0\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\4035c2eaa450f7d91288bc9a48b26a07\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rejat\.gradle\caches\transforms-3\66b68972266724e99e8ee52401c728f9\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rejat\.gradle\caches\transforms-3\8976da53f64027807daf8ff69c6d978d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\5e45981b2bf7dc0f9119fbd97b72c5c0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\47f55e4d0246084df29f98418f0c4e98\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\a21c09cc508ecf605e2ac224fc0120dd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\3f190c570397668b6b3b69cb6a0dfc0c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\f06800882276de233c95f340ae77e7aa\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\rejat\.gradle\caches\transforms-3\981971160baa9db7c829bdf5b7477f6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\rejat\.gradle\caches\transforms-3\981971160baa9db7c829bdf5b7477f6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\cb122e5962e306991d1a9340df9926f0\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\cb122e5962e306991d1a9340df9926f0\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\4035c2eaa450f7d91288bc9a48b26a07\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\4035c2eaa450f7d91288bc9a48b26a07\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\cb122e5962e306991d1a9340df9926f0\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.calculator.MainActivity
+ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:12:19-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\rejat\.gradle\caches\transforms-3\981971160baa9db7c829bdf5b7477f6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\rejat\.gradle\caches\transforms-3\981971160baa9db7c829bdf5b7477f6d\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\rejat\.gradle\caches\transforms-3\9dcb0106cd710123df30759d2a869a90\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\rejat\.gradle\caches\transforms-3\9dcb0106cd710123df30759d2a869a90\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\0ec2f78ba281205071bc06d642510a1a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\0ec2f78ba281205071bc06d642510a1a\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\210edd707f683d989cc7a828932c0067\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\210edd707f683d989cc7a828932c0067\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\af382b0f23c9e1acff5c944bc3a970be\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\af382b0f23c9e1acff5c944bc3a970be\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\rejat\.gradle\caches\transforms-3\2761a20f41502a407c14fc4490b74a95\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\rejat\.gradle\caches\transforms-3\2761a20f41502a407c14fc4490b74a95\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\54283a7eff7ab5a64e596e8a4a50b442\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\54283a7eff7ab5a64e596e8a4a50b442\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\581ead41f6125778715d61e885a18109\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\581ead41f6125778715d61e885a18109\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\65f25f81844aa55266fc62f20e1af65d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\65f25f81844aa55266fc62f20e1af65d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\b7fb7c9d34890772567db149ba51f1ac\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\b7fb7c9d34890772567db149ba51f1ac\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\81766e2c066307282d784d92a8493423\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\81766e2c066307282d784d92a8493423\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\a5a74c6457b1b59d9ff496d550b9b5e6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\a5a74c6457b1b59d9ff496d550b9b5e6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\bb3c296e9e9595185dd4970ce69a1568\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\bb3c296e9e9595185dd4970ce69a1568\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\cb122e5962e306991d1a9340df9926f0\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\rejat\.gradle\caches\transforms-3\cb122e5962e306991d1a9340df9926f0\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\4035c2eaa450f7d91288bc9a48b26a07\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rejat\.gradle\caches\transforms-3\4035c2eaa450f7d91288bc9a48b26a07\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rejat\.gradle\caches\transforms-3\66b68972266724e99e8ee52401c728f9\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rejat\.gradle\caches\transforms-3\66b68972266724e99e8ee52401c728f9\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rejat\.gradle\caches\transforms-3\8976da53f64027807daf8ff69c6d978d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rejat\.gradle\caches\transforms-3\8976da53f64027807daf8ff69c6d978d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\5e45981b2bf7dc0f9119fbd97b72c5c0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\5e45981b2bf7dc0f9119fbd97b72c5c0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\47f55e4d0246084df29f98418f0c4e98\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rejat\.gradle\caches\transforms-3\47f55e4d0246084df29f98418f0c4e98\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\a21c09cc508ecf605e2ac224fc0120dd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\a21c09cc508ecf605e2ac224fc0120dd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\3f190c570397668b6b3b69cb6a0dfc0c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\3f190c570397668b6b3b69cb6a0dfc0c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\f06800882276de233c95f340ae77e7aa\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rejat\.gradle\caches\transforms-3\f06800882276de233c95f340ae77e7aa\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rejat\Desktop\flutter\calculator\app\src\main\AndroidManifest.xml
