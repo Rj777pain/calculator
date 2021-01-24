@@ -12,7 +12,7 @@
 
         android:layout_width="match_parent"
         android:layout_height="100dp"
-
+        android:id="@+id/tvip"
         android:ellipsize="start"
 
         android:gravity="end"
@@ -20,7 +20,7 @@
         android:paddingLeft="10dp"
         android:paddingTop="10dp"
         android:singleLine="true"
-        android:text="1235"
+        android:text=""
         android:textColor="@color/orange"
         android:textSize="30sp"></TextView>
 
@@ -28,13 +28,13 @@
 
         android:layout_width="match_parent"
         android:layout_height="100dp"
-
+        android:id="@+id/tvop"
         android:ellipsize="start"
         android:gravity="end"
         android:padding="10dp"
         android:paddingLeft="10dp"
         android:singleLine="true"
-        android:text="1235"
+        android:text="0"
         android:textColor="@color/colorPrimary"
         android:textSize="30sp"></TextView>
 
@@ -298,7 +298,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="@color/colorPrimary"
+                android:background="@color/grey"
                 android:stateListAnimator="@null"
                 android:text="="
                 android:textColor="@color/white"
